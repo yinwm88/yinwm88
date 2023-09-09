@@ -1,4 +1,4 @@
-### 🐸 💻 Computer Science student
+### 🐸 Hi there
 
 <!--
 **yinwm88/yinwm88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
