@@ -1,10 +1,9 @@
 <h1 align="center"> 🐸 Hi there< !/h1>
 
-<div align"center">
   
 <h3> I am someone who is interested in improving own skills and understand the tech world.</h3>
 
-</div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
