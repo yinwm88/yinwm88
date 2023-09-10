@@ -1,5 +1,8 @@
 <h1 align="center"> 🐸 Hi there</h1>
-<h3>Ssomeone who is interested in frontend and backend.</h3>
+
+<div align"center">
+<h3> I am someone who is interested in frontend and backend.</h3>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
