@@ -1,4 +1,4 @@
-<h1 align="center"> 🐸 Hi there< !/h1>
+<h1 align="center"> 🐸 Hi there! </h1>
 
   
 <h3> I am someone who is interested in improving own skills and understand the tech world.</h3>
