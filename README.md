@@ -7,8 +7,9 @@
 
 <p align="left">
 
-  <a href="https://codeforces.com/profile/yinlen" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-3521352-2944796.png" alt="yinlen" height="45" width="40" /></a>
+<a href="https://codeforces.com/profile/yinlen" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-3521352-2944796.png" alt="yinlen" height="40" width="40" /></a>
 <a href="https://www.leetcode.com/yinwm88" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yinlen" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yin-len-wong-mestas-70aa4b274/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png" alt="yinlen" height="35" width="35" /></a>
 
 </p>
 
