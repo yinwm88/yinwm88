@@ -1,9 +1,19 @@
 <div align="center">
   
-> <h3>  Yin Len Wong </h3>
-> I'm a Computer Science Student at UNAM. Welcome to my profile!👋
+  <h3>  Yin Len Wong </h3>
 
+> Welcome to my profile!
 </div>
+
+🐼 I'm a Computer Science student at UNAM with a strong interest in becoming a Software Development Engineer.
+
+💡 I'm a creatively curious self-learner who enjoys exploring new technologies, solving real-world problems, and continuously improving my skills.
+
+💚 I'm passionate about building reliable, scalable systems and eager to contribute to impactful tech projects.
+
+👩🏻‍💻 I'm so interested in start to work in some tech company as a intern.
+
+
 
   
 
@@ -17,7 +27,7 @@
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yin-len-wong-mestas-70aa4b274/) 
 [![Codeforces](https://img.shields.io/badge/Codeforces-%236D42DC.svg?logo=Codeforces&logoColor=white)](https://codeforces.com/profile/yinlen)
-<!--[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=white)](https://www.leetcode.com/yinwm88)-->
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=white)](https://www.leetcode.com/yinwm88)
 
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wonguis) -->
 
@@ -40,17 +50,19 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![DBeaver](https://img.shields.io/badge/DBeaver-%2300A7D0.svg?style=for-the-badge&logo=dbeaver&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<!--![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)-->
 
 <div align="right">
   
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Overleaf](https://img.shields.io/badge/Overleaf-%23647D8A.svg?style=for-the-badge&logo=overleaf&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
 
 
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Visual Studio Code - Open Source Edition](https://img.shields.io/badge/Visual%20Studio%20Code%20-%20Open%20Source%20Edition-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 </div>
 
