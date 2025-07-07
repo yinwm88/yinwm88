@@ -13,7 +13,10 @@
 
 👩🏻‍💻 I'm so interested in start to work in some tech company as a intern.
 
-
+<div>
+   <h5>  Currently Learning </h5>
+ ☕ Backend 
+</div>
 
   
 
